@@ -1,1 +1,1 @@
-# FirstDayCheck
+Hello, my name is Daniel Tribaldos. I am a senior at FLorida State University majoring in computer science, this is the second course I have taken with you and I am glad to be able to my final step to graduation with you as the professor. 
